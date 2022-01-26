@@ -1,0 +1,22 @@
+h1 {
+   color:pink;
+   font-family:fantasy;
+   background-color: green;
+   border:5px solid fuchsia;
+   padding:50px;
+}
+
+p {
+  color:purple;
+}
+
+body {
+  background-color:beige
+}
+
+img {
+  boder: 5px solid fuchsia;
+  width: 40%;
+  height: 70%;
+  margin-left:100px;
+}
